@@ -1,0 +1,119 @@
+{
+    "radios": [
+        {
+            "id": 1,
+            "name": "Playground",
+            "tagline": "Arcane",
+            "color": "0xff27383e",
+            "desc": "",
+            "url": "https://assets.mixkit.co/music/preview/mixkit-playground-fun-12.mp3",
+            "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+            "image": "https://i.ytimg.com/vi/soVKmTQdrBs/maxresdefault.jpg",
+            "lang": "English",
+            "category": "rock",
+            "disliked": false,
+            "order": 1
+        },
+        
+           {
+               "id": 2,
+               "name": "Driving Ambition",
+               "tagline": "Drive On",
+               "color": "0xff221420",
+               "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+               "url": "https://assets.mixkit.co/music/preview/mixkit-driving-ambition-32.mp3",
+               "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+               "image": "https://images-na.ssl-images-amazon.com/images/I/51beWoSR84L.jpg",
+               "lang": "Hindi",
+               "disliked": false,
+               "category": "rock",
+               "order": 2
+           },
+           {
+               "id": 3,
+               "name": "Dance with me",
+               "tagline": "Play On!",
+               "color": "0xff04080b",
+               "desc": "Playing music regularly will physically alter your brain structure.",
+               "url": "https://assets.mixkit.co/music/preview/mixkit-dance-with-me-3.mp3",
+               "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+               "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/dance-with-me-art-by-linda-woods-linda-woods.jpg",
+               "lang": "English",
+               "disliked": false,
+               "category": "hip-hop",
+               "order": 3
+           },
+           {
+               "id": 4,
+               "name": "Dreaming Big",
+               "tagline": "Uplifting",
+               "color": "0xff066c53",
+               "desc": "",
+               "url": "https://assets.mixkit.co/music/preview/mixkit-dreaming-big-31.mp3",
+               "icon": "https://radiosindia.com/images/foxfm.jpg",
+               "image": "https://miro.medium.com/max/1000/1*e1lPrm5p8WrzXRSUS_YMDg@2x.jpeg",
+               "lang": "English",
+               "category": "hip-hop",
+               "disliked": false,
+               "order": 4
+           },
+           {
+               "id": 5,
+               "name": "Feeling Happy",
+               "tagline": "Happier",
+               "color": "0xff0d487d",
+               "desc": "",
+               "url": "https://assets.mixkit.co/music/preview/mixkit-feeling-happy-5.mp3",
+               "icon": "https://static.radio.net/images/broadcasts/5d/9c/37907/1/c175.png",
+               "image": "https://pianu.com/wp-content/uploads/2020/02/45b8e6d18008e22c9fa9d4a9585bda66.jpg",
+               "lang": "English",
+               "category": "jazz",
+               "disliked": false,
+               "order": 5
+           },
+           {
+            "id": 6,
+            "name": "Tech House Vibes",
+            "tagline": "Vibing",
+            "color": "0xffa11431",
+            "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+            "url": "https://assets.mixkit.co/music/preview/mixkit-tech-house-vibes-130.mp3",
+            "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+            "image": "https://i.ytimg.com/vi/v1wqdV_IZyU/maxresdefault.jpg",
+            "lang": "Hindi",
+            "category": "pop",
+            "disliked": false,
+            "order": 6
+        },
+           
+           {
+               "id": 7,
+               "name": "Beautiful Dream",
+               "tagline": "Love Songs",
+               "color": "0xffa06a37",
+               "desc": "The brain responds to music the same way it responds to something that you eat.",
+               "url": "https://assets.mixkit.co/music/preview/mixkit-beautiful-dream-493.mp3",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+               "image": "https://cdn4.vectorstock.com/i/1000x1000/57/58/beautiful-dream-catcher-on-polygonal-background-vector-4285758.jpg",
+               "lang": "Hindi",
+               "category": "pop",
+               "disliked": false,
+               "order": 7
+           },
+           {
+               "id": 8,
+               "name": "Spirit In The Woods",
+               "tagline": "Retro",
+               "color": "0xff090909",
+               "desc": "Your heartbeat changes to mimics the music you listen to.",
+               "url": "https://assets.mixkit.co/music/preview/mixkit-spirit-in-the-woods-139.mp3",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfC9Y_MnXoBUWX12ALFEe9lT-rlA8vxAIOmA&usqp=CAU",
+               "lang": "Hindi",
+               "category": "classic",
+               "disliked": false,
+               "order": 8
+           }
+   ]
+   
+}
